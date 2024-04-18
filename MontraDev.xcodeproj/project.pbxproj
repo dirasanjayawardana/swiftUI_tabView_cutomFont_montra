@@ -11,6 +11,20 @@
 		52AF22DD2BD0DA4200F20B87 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52AF22DC2BD0DA4200F20B87 /* ContentView.swift */; };
 		52AF22DF2BD0DA4300F20B87 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52AF22DE2BD0DA4300F20B87 /* Assets.xcassets */; };
 		52AF22E22BD0DA4300F20B87 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52AF22E12BD0DA4300F20B87 /* Preview Assets.xcassets */; };
+		52AF22ED2BD0DB4700F20B87 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52AF22EC2BD0DB4700F20B87 /* LaunchScreen.storyboard */; };
+		52AF22F82BD0F8AC00F20B87 /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 52AF22EF2BD0F8AC00F20B87 /* Inter-Regular.ttf */; };
+		52AF22F92BD0F8AC00F20B87 /* Inter-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 52AF22F02BD0F8AC00F20B87 /* Inter-ExtraBold.ttf */; };
+		52AF22FA2BD0F8AC00F20B87 /* Inter-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 52AF22F12BD0F8AC00F20B87 /* Inter-Light.ttf */; };
+		52AF22FB2BD0F8AC00F20B87 /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 52AF22F22BD0F8AC00F20B87 /* Inter-SemiBold.ttf */; };
+		52AF22FC2BD0F8AC00F20B87 /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 52AF22F32BD0F8AC00F20B87 /* Inter-Bold.ttf */; };
+		52AF22FD2BD0F8AC00F20B87 /* Inter-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 52AF22F42BD0F8AC00F20B87 /* Inter-Black.ttf */; };
+		52AF22FE2BD0F8AC00F20B87 /* Inter-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 52AF22F52BD0F8AC00F20B87 /* Inter-Medium.ttf */; };
+		52AF22FF2BD0F8AC00F20B87 /* Inter-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 52AF22F62BD0F8AC00F20B87 /* Inter-Thin.ttf */; };
+		52AF23002BD0F8AC00F20B87 /* Inter-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 52AF22F72BD0F8AC00F20B87 /* Inter-ExtraLight.ttf */; };
+		52AF23042BD0FC8600F20B87 /* Onboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52AF23032BD0FC8600F20B87 /* Onboarding.swift */; };
+		52AF23072BD0FF0E00F20B87 /* OnboardingComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52AF23062BD0FF0E00F20B87 /* OnboardingComponent.swift */; };
+		52AF23092BD1017500F20B87 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52AF23082BD1017500F20B87 /* OnboardingView.swift */; };
+		52AF230B2BD1060C00F20B87 /* CustomDotIndicatorComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52AF230A2BD1060C00F20B87 /* CustomDotIndicatorComponent.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +33,21 @@
 		52AF22DC2BD0DA4200F20B87 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		52AF22DE2BD0DA4300F20B87 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52AF22E12BD0DA4300F20B87 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		52AF22EC2BD0DB4700F20B87 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		52AF22EF2BD0F8AC00F20B87 /* Inter-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Regular.ttf"; sourceTree = "<group>"; };
+		52AF22F02BD0F8AC00F20B87 /* Inter-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-ExtraBold.ttf"; sourceTree = "<group>"; };
+		52AF22F12BD0F8AC00F20B87 /* Inter-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Light.ttf"; sourceTree = "<group>"; };
+		52AF22F22BD0F8AC00F20B87 /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-SemiBold.ttf"; sourceTree = "<group>"; };
+		52AF22F32BD0F8AC00F20B87 /* Inter-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Bold.ttf"; sourceTree = "<group>"; };
+		52AF22F42BD0F8AC00F20B87 /* Inter-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Black.ttf"; sourceTree = "<group>"; };
+		52AF22F52BD0F8AC00F20B87 /* Inter-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Medium.ttf"; sourceTree = "<group>"; };
+		52AF22F62BD0F8AC00F20B87 /* Inter-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Thin.ttf"; sourceTree = "<group>"; };
+		52AF22F72BD0F8AC00F20B87 /* Inter-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-ExtraLight.ttf"; sourceTree = "<group>"; };
+		52AF23012BD0F99200F20B87 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		52AF23032BD0FC8600F20B87 /* Onboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding.swift; sourceTree = "<group>"; };
+		52AF23062BD0FF0E00F20B87 /* OnboardingComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingComponent.swift; sourceTree = "<group>"; };
+		52AF23082BD1017500F20B87 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		52AF230A2BD1060C00F20B87 /* CustomDotIndicatorComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomDotIndicatorComponent.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,9 +80,11 @@
 		52AF22D92BD0DA4200F20B87 /* MontraDev */ = {
 			isa = PBXGroup;
 			children = (
-				52AF22DA2BD0DA4200F20B87 /* MontraDevApp.swift */,
-				52AF22DC2BD0DA4200F20B87 /* ContentView.swift */,
-				52AF22DE2BD0DA4300F20B87 /* Assets.xcassets */,
+				52AF23022BD0FC6800F20B87 /* Model */,
+				52AF23012BD0F99200F20B87 /* Info.plist */,
+				52AF22E82BD0DA5000F20B87 /* App */,
+				52AF22E92BD0DA5700F20B87 /* View */,
+				52AF22EA2BD0DA6000F20B87 /* Resources */,
 				52AF22E02BD0DA4300F20B87 /* Preview Content */,
 			);
 			path = MontraDev;
@@ -65,6 +96,75 @@
 				52AF22E12BD0DA4300F20B87 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		52AF22E82BD0DA5000F20B87 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				52AF22DA2BD0DA4200F20B87 /* MontraDevApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		52AF22E92BD0DA5700F20B87 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				52AF23052BD0FED900F20B87 /* Component */,
+				52AF22EB2BD0DB2D00F20B87 /* Launch */,
+				52AF22DC2BD0DA4200F20B87 /* ContentView.swift */,
+				52AF23082BD1017500F20B87 /* OnboardingView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		52AF22EA2BD0DA6000F20B87 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				52AF22EE2BD0F84E00F20B87 /* Font */,
+				52AF22DE2BD0DA4300F20B87 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		52AF22EB2BD0DB2D00F20B87 /* Launch */ = {
+			isa = PBXGroup;
+			children = (
+				52AF22EC2BD0DB4700F20B87 /* LaunchScreen.storyboard */,
+			);
+			path = Launch;
+			sourceTree = "<group>";
+		};
+		52AF22EE2BD0F84E00F20B87 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				52AF22F42BD0F8AC00F20B87 /* Inter-Black.ttf */,
+				52AF22F32BD0F8AC00F20B87 /* Inter-Bold.ttf */,
+				52AF22F02BD0F8AC00F20B87 /* Inter-ExtraBold.ttf */,
+				52AF22F72BD0F8AC00F20B87 /* Inter-ExtraLight.ttf */,
+				52AF22F12BD0F8AC00F20B87 /* Inter-Light.ttf */,
+				52AF22F52BD0F8AC00F20B87 /* Inter-Medium.ttf */,
+				52AF22EF2BD0F8AC00F20B87 /* Inter-Regular.ttf */,
+				52AF22F22BD0F8AC00F20B87 /* Inter-SemiBold.ttf */,
+				52AF22F62BD0F8AC00F20B87 /* Inter-Thin.ttf */,
+			);
+			path = Font;
+			sourceTree = "<group>";
+		};
+		52AF23022BD0FC6800F20B87 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				52AF23032BD0FC8600F20B87 /* Onboarding.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		52AF23052BD0FED900F20B87 /* Component */ = {
+			isa = PBXGroup;
+			children = (
+				52AF23062BD0FF0E00F20B87 /* OnboardingComponent.swift */,
+				52AF230A2BD1060C00F20B87 /* CustomDotIndicatorComponent.swift */,
+			);
+			path = Component;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +225,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52AF22F92BD0F8AC00F20B87 /* Inter-ExtraBold.ttf in Resources */,
+				52AF22FD2BD0F8AC00F20B87 /* Inter-Black.ttf in Resources */,
+				52AF22ED2BD0DB4700F20B87 /* LaunchScreen.storyboard in Resources */,
+				52AF22FC2BD0F8AC00F20B87 /* Inter-Bold.ttf in Resources */,
 				52AF22E22BD0DA4300F20B87 /* Preview Assets.xcassets in Resources */,
+				52AF22FF2BD0F8AC00F20B87 /* Inter-Thin.ttf in Resources */,
+				52AF22F82BD0F8AC00F20B87 /* Inter-Regular.ttf in Resources */,
+				52AF23002BD0F8AC00F20B87 /* Inter-ExtraLight.ttf in Resources */,
+				52AF22FA2BD0F8AC00F20B87 /* Inter-Light.ttf in Resources */,
 				52AF22DF2BD0DA4300F20B87 /* Assets.xcassets in Resources */,
+				52AF22FE2BD0F8AC00F20B87 /* Inter-Medium.ttf in Resources */,
+				52AF22FB2BD0F8AC00F20B87 /* Inter-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +247,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52AF23042BD0FC8600F20B87 /* Onboarding.swift in Sources */,
+				52AF23072BD0FF0E00F20B87 /* OnboardingComponent.swift in Sources */,
 				52AF22DD2BD0DA4200F20B87 /* ContentView.swift in Sources */,
+				52AF23092BD1017500F20B87 /* OnboardingView.swift in Sources */,
+				52AF230B2BD1060C00F20B87 /* CustomDotIndicatorComponent.swift in Sources */,
 				52AF22DB2BD0DA4200F20B87 /* MontraDevApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -274,9 +388,11 @@
 				DEVELOPMENT_ASSET_PATHS = "\"MontraDev/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MontraDev/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -302,9 +418,11 @@
 				DEVELOPMENT_ASSET_PATHS = "\"MontraDev/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MontraDev/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
